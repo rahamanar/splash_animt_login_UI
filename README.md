@@ -1,6 +1,16 @@
 # splash_login_animt_screen
 
-A new Flutter project.
+A Splash Screen with animations and Login UI in Flutter
+<br/><img src="https://github.com/rahamanar/splash_animt_login_UI/blob/main/assets/images/splash_animate_UI.gif" width="205" height="380">
+
+
+# screenshots
+<br/><img src="https://github.com/rahamanar/splash_animt_login_UI/blob/main/assets/images/Screenshot_1.png" width="205" height="380">
+
+<br/><img src="https://github.com/rahamanar/splash_animt_login_UI/blob/main/assets/images/Screenshot_2.png" width="205" height="380">
+
+<br/><img src="https://github.com/rahamanar/splash_animt_login_UI/blob/main/assets/images/Screenshot_3.png" width="205" height="380">
+
 
 ## Getting Started
 
